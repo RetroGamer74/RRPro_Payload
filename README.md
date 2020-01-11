@@ -1,2 +1,5 @@
-# RRPro_Payload
-This is the update repo for RRPRo payload
+# RRPro Payload
+
+Do not use this repository as stand-alone solution. It is for RetroReloaded Pro autoupdate purposes.
+
+
